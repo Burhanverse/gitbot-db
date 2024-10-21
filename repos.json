@@ -29,7 +29,8 @@
     "LSPosed/LSPosed.github.io",
     "Magisk-Modules-Alt-Repo/StevenBlock",
     "Magisk-Modules-Alt-Repo/enable-blurs",
-    "taamarin/cleaner"
+    "taamarin/cleaner",
+    "Citra-Standalone/TSP"
   ],
   "linux": [
     "vinceliuice/Colloid-icon-theme",
