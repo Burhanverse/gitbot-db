@@ -30,7 +30,8 @@
     "Magisk-Modules-Alt-Repo/StevenBlock",
     "Magisk-Modules-Alt-Repo/enable-blurs",
     "taamarin/cleaner",
-    "Citra-Standalone/TSP"
+    "Citra-Standalone/TSP",
+    "Citra-Standalone/CITadvance"
   ],
   "linux": [
     "vinceliuice/Colloid-icon-theme",
