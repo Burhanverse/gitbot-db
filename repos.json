@@ -32,7 +32,8 @@
     "taamarin/cleaner",
     "Citra-Standalone/TSP",
     "Citra-Standalone/TSupport-Advance",
-    "Citra-Standalone/CITadvance"
+    "Citra-Standalone/CITadvance",
+    "Mahmud0808/Iconify"
   ],
   "linux": [
     "vinceliuice/Colloid-icon-theme",
