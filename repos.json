@@ -33,7 +33,8 @@
     "Citra-Standalone/TSP",
     "Citra-Standalone/TSupport-Advance",
     "Citra-Standalone/CITadvance",
-    "Mahmud0808/Iconify"
+    "Mahmud0808/Iconify",
+    "Dr-TSNG/ZygiskNext"
   ],
   "linux": [
     "vinceliuice/Colloid-icon-theme",
