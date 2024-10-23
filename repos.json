@@ -34,7 +34,8 @@
     "Citra-Standalone/TSupport-Advance",
     "Citra-Standalone/CITadvance",
     "Mahmud0808/Iconify",
-    "Dr-TSNG/ZygiskNext"
+    "Dr-TSNG/ZygiskNext",
+    "tiann/KernelSU"
   ],
   "linux": [
     "vinceliuice/Colloid-icon-theme",
