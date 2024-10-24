@@ -85,6 +85,7 @@
     "iBotPeaches/Apktool",
     "REAndroid/APKEditor",
     "skylot/jadx",
-    "instaloader/instaloader"
+    "instaloader/instaloader",
+    "radareorg/radare2"
   ]
 }
