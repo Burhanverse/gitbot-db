@@ -22,7 +22,8 @@
     "namidaco/namida",
     "termux/termux-app",
     "komikku-app/komikku",
-    "fork-maintainers/iceraven-browser"
+    "fork-maintainers/iceraven-browser",
+    "uazo/cromite"
   ],
   "magisk-xposed": [
     "5ec1cff/TrickyStore",
