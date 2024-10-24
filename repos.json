@@ -71,7 +71,8 @@
     "fastfetch-cli/fastfetch",
     "SpacingBat3/WebCord",
     "brave/brave-browser",
-    "Floorp-Projects/Floorp"
+    "Floorp-Projects/Floorp",
+    "telegramdesktop/tdesktop"
   ],
   "misc": [
     "leminlimez/Nugget",
