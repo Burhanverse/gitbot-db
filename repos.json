@@ -53,7 +53,8 @@
     "Axorax/nanabox",
     "CarrotRub/Fit-Launcher",
     "eythaann/Seelen-UI",
-    "ChrisTitusTech/winutil"
+    "ChrisTitusTech/winutil",
+    "AyuGram/AyuGramDesktop"
   ],
   "cross-platform": [
     "zen-browser/desktop",
