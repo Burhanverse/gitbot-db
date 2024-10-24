@@ -76,6 +76,8 @@
     "mikf/gallery-dl",
     "yt-dlp/yt-dlp",
     "htop-dev/htop",
+    "REAndroid/APKEditor",
+    "skylot/jadx",
     "iBotPeaches/Apktool",
     "REAndroid/APKEditor"
   ]
