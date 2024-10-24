@@ -74,6 +74,7 @@
     "straight-tamago/misakaX",
     "mikf/gallery-dl",
     "yt-dlp/yt-dlp",
-    "htop-dev/htop"
+    "htop-dev/htop",
+    "iBotPeaches/Apktool"
   ]
 }
