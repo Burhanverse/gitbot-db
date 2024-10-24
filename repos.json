@@ -57,7 +57,8 @@
     "eythaann/Seelen-UI",
     "ChrisTitusTech/winutil",
     "AyuGram/AyuGramDesktop",
-    "microsoft/PowerToys"
+    "microsoft/PowerToys",
+    "AutoHotkey/AutoHotkey"
   ],
   "cross-platform": [
     "zen-browser/desktop",
