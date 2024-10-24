@@ -67,7 +67,8 @@
     "localsend/localsend",
     "fastfetch-cli/fastfetch",
     "SpacingBat3/WebCord",
-    "brave/brave-browser"
+    "brave/brave-browser",
+    "Floorp-Projects/Floorp"
   ],
   "misc": [
     "leminlimez/Nugget",
@@ -76,6 +77,8 @@
     "yt-dlp/yt-dlp",
     "htop-dev/htop",
     "REAndroid/APKEditor",
-    "skylot/jadx"
+    "skylot/jadx",
+    "iBotPeaches/Apktool",
+    "REAndroid/APKEditor"
   ]
 }
