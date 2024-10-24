@@ -54,7 +54,8 @@
     "CarrotRub/Fit-Launcher",
     "eythaann/Seelen-UI",
     "ChrisTitusTech/winutil",
-    "AyuGram/AyuGramDesktop"
+    "AyuGram/AyuGramDesktop",
+    "microsoft/PowerToys"
   ],
   "cross-platform": [
     "zen-browser/desktop",
