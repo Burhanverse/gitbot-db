@@ -67,7 +67,8 @@
     "localsend/localsend",
     "fastfetch-cli/fastfetch",
     "SpacingBat3/WebCord",
-    "brave/brave-browser"
+    "brave/brave-browser",
+    "Floorp-Projects/Floorp"
   ],
   "misc": [
     "leminlimez/Nugget",
