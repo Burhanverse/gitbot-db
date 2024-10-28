@@ -46,7 +46,8 @@
     "vinceliuice/WhiteSur-gtk-theme",
     "mjakeman/extension-manager",
     "linuxmint/timeshift",
-    "vinceliuice/WhiteSur-icon-theme"
+    "vinceliuice/WhiteSur-icon-theme",
+    "domferr/tilingshell"
   ],
   "windows": [
     "Runixe786/MD3-Windows",
