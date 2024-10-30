@@ -37,7 +37,8 @@
     "Dr-TSNG/ZygiskNext",
     "tiann/KernelSU",
     "Dev4Mod/WaEnhancer",
-    "j-hc/revanced-magisk-module"
+    "j-hc/revanced-magisk-module",
+    "Magisk-Modules-Alt-Repo/systemless-adblocker"
   ],
   "linux": [
     "vinceliuice/Colloid-icon-theme",
