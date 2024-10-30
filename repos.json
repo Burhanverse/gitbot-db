@@ -23,7 +23,8 @@
     "termux/termux-app",
     "komikku-app/komikku",
     "fork-maintainers/iceraven-browser",
-    "uazo/cromite"
+    "uazo/cromite",
+    "LawnchairLauncher/lawnchair"
   ],
   "magisk-xposed": [
     "5ec1cff/TrickyStore",
