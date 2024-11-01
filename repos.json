@@ -89,6 +89,7 @@
     "REAndroid/APKEditor",
     "skylot/jadx",
     "instaloader/instaloader",
-    "radareorg/radare2"
+    "radareorg/radare2",
+    "ReEng101/Find-Inst"
   ]
 }
